@@ -1,0 +1,9 @@
+nibabel
+nilearn
+pandas
+matplotlib
+tphate
+seaborn
+numpy
+os
+json
