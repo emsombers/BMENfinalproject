@@ -16,11 +16,16 @@ datalad install https://github.com/OpenNeuroDatasets/ds004872.git
 
 The general structure of this codebase is based on five Juptyer notebooks and then everything else is folders containing the data they produce.
 
-### Notebook 1: Preprocessing includes the work done to downsample the continuous anxiety rating so they would match the temporal resolution of the fMRI files. It also involves creating various files that make the data easier to match. 
-### Notebook 2: Functional Connectivity includes the work necessary to create the functional connectivity matrices. It creates a folder of the ROI time series and a folder of the FC matrices along with CSVs containing their labels.
-### Notebook 3: Simple Machine Learning includes the work done to do some basic SVM and Random Forest classification and regression for the FC matrices. These are used to compare with the neural networks. 
-### Notebook 4: CNN Regression includes the work done to create, train, and test the regression deep learning model. It is a UNet with attention architecture. 
-### Notebook 5: Classification Model includes the work done to create, train, and test the classification deep learning model. 
+  ### Notebook1_Preprocessing
+includes the work done to downsample the continuous anxiety rating so they would match the temporal resolution of the fMRI files. It also involves creating various files that make the data easier to match. 
+### Notebook2_FunctionalConnectivity
+includes the work necessary to create the functional connectivity matrices. It creates a folder of the ROI time series and a folder of the FC matrices along with CSVs containing their labels.
+### Notebook3_BasicMachineLearning
+includes the work done to do some basic SVM and Random Forest classification and regression for the FC matrices. These are used to compare with the neural networks. 
+### Notebook4_CNNRegression
+includes the work done to create, train, and test the regression deep learning model. It is a UNet with attention architecture. 
+### Notebook5_ClassificationModel
+includes the work done to create, train, and test the classification deep learning model. 
 
 ### Extra Files 
 
