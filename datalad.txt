@@ -1,0 +1,124 @@
+# to get the fMRI files we are using, you need to run these commands in the terminal. 
+they are labeled with the subject number but dont copy paste that part (ex. paste everything after 1: on that line)
+
+# LessonLearned
+
+1: datalad get ds004892/derivatives/preprocessing/sub-S01/ses-2/func/sub-S01_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+2: datalad get ds004892/derivatives/preprocessing/sub-S02/ses-3/func/sub-S02_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+3: datalad get ds004892/derivatives/preprocessing/sub-S03/ses-2/func/sub-S03_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+4: datalad get ds004892/derivatives/preprocessing/sub-S04/ses-3/func/sub-S04_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+5: datalad get ds004892/derivatives/preprocessing/sub-S05/ses-2/func/sub-S05_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+6: datalad get ds004892/derivatives/preprocessing/sub-S06/ses-4/func/sub-S06_ses-4_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+7: datalad get ds004892/derivatives/preprocessing/sub-S07/ses-4/func/sub-S07_ses-4_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+8: datalad get ds004892/derivatives/preprocessing/sub-S08/ses-4/func/sub-S08_ses-4_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+9: datalad get ds004892/derivatives/preprocessing/sub-S09/ses-1/func/sub-S09_ses-1_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+10: datalad get ds004892/derivatives/preprocessing/sub-S10/ses-3/func/sub-S10_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+11: datalad get ds004892/derivatives/preprocessing/sub-S11/ses-3/func/sub-S11_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+13: datalad get ds004892/derivatives/preprocessing/sub-S13/ses-1/func/sub-S13_ses-1_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+14: datalad get ds004892/derivatives/preprocessing/sub-S14/ses-2/func/sub-S14_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+15: datalad get ds004892/derivatives/preprocessing/sub-S15/ses-4/func/sub-S15_ses-4_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+16: datalad get ds004892/derivatives/preprocessing/sub-S16/ses-3/func/sub-S16_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+17: datalad get ds004892/derivatives/preprocessing/sub-S17/ses-2/func/sub-S17_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+19: datalad get ds004892/derivatives/preprocessing/sub-S19/ses-3/func/sub-S19_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+20: datalad get ds004892/derivatives/preprocessing/sub-S20/ses-3/func/sub-S20_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+21: datalad get ds004892/derivatives/preprocessing/sub-S21/ses-2/func/sub-S21_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+22: datalad get ds004892/derivatives/preprocessing/sub-S22/ses-2/func/sub-S22_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+23: datalad get ds004892/derivatives/preprocessing/sub-S23/ses-4/func/sub-S23_ses-4_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+24: datalad get ds004892/derivatives/preprocessing/sub-S24/ses-2/func/sub-S24_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+25: datalad get ds004892/derivatives/preprocessing/sub-S25/ses-4/func/sub-S25_ses-4_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+26: datalad get ds004892/derivatives/preprocessing/sub-S26/ses-2/func/sub-S26_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+27: datalad get ds004892/derivatives/preprocessing/sub-S27/ses-1/func/sub-S27_ses-1_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+28: datalad get ds004892/derivatives/preprocessing/sub-S28/ses-2/func/sub-S28_ses-2_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+29: datalad get ds004892/derivatives/preprocessing/sub-S29/ses-4/func/sub-S29_ses-4_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+30: datalad get ds004892/derivatives/preprocessing/sub-S30/ses-1/func/sub-S30_ses-1_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+31: datalad get ds004892/derivatives/preprocessing/sub-S31/ses-1/func/sub-S31_ses-1_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+32: datalad get ds004892/derivatives/preprocessing/sub-S32/ses-3/func/sub-S32_ses-3_task-LessonLearned_space-MNI_desc-ppres_bold.nii.gz
+
+# Chatter 
+
+1: datalad get ds004892/derivatives/preprocessing/sub-S01/ses-3/func/sub-S01_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+2: datalad get ds004892/derivatives/preprocessing/sub-S02/ses-2/func/sub-S02_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+3: datalad get ds004892/derivatives/preprocessing/sub-S03/ses-4/func/sub-S03_ses-4_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+4: datalad get ds004892/derivatives/preprocessing/sub-S04/ses-3/func/sub-S04_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+5: datalad get ds004892/derivatives/preprocessing/sub-S05/ses-2/func/sub-S05_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+6: datalad get ds004892/derivatives/preprocessing/sub-S06/ses-2/func/sub-S06_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+7: datalad get ds004892/derivatives/preprocessing/sub-S07/ses-2/func/sub-S07_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+8: datalad get ds004892/derivatives/preprocessing/sub-S08/ses-4/func/sub-S08_ses-4_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+9: datalad get ds004892/derivatives/preprocessing/sub-S09/ses-2/func/sub-S09_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+10: datalad get ds004892/derivatives/preprocessing/sub-S10/ses-1/func/sub-S10_ses-1_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+11: datalad get ds004892/derivatives/preprocessing/sub-S11/ses-1/func/sub-S11_ses-1_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+13: datalad get ds004892/derivatives/preprocessing/sub-S13/ses-3/func/sub-S13_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+14: datalad get ds004892/derivatives/preprocessing/sub-S14/ses-1/func/sub-S14_ses-1_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+15: datalad get ds004892/derivatives/preprocessing/sub-S15/ses-3/func/sub-S15_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+16: datalad get ds004892/derivatives/preprocessing/sub-S16/ses-3/func/sub-S16_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+17: datalad get ds004892/derivatives/preprocessing/sub-S17/ses-1/func/sub-S17_ses-1_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+19: datalad get ds004892/derivatives/preprocessing/sub-S19/ses-2/func/sub-S19_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+20: datalad get ds004892/derivatives/preprocessing/sub-S20/ses-2/func/sub-S20_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+21: datalad get ds004892/derivatives/preprocessing/sub-S21/ses-2/func/sub-S21_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+22: datalad get ds004892/derivatives/preprocessing/sub-S22/ses-2/func/sub-S22_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+23: datalad get ds004892/derivatives/preprocessing/sub-S23/ses-1/func/sub-S23_ses-1_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+24: datalad get ds004892/derivatives/preprocessing/sub-S24/ses-1/func/sub-S24_ses-1_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+25: datalad get ds004892/derivatives/preprocessing/sub-S25/ses-3/func/sub-S25_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+26: datalad get ds004892/derivatives/preprocessing/sub-S26/ses-4/func/sub-S26_ses-4_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+27: datalad get ds004892/derivatives/preprocessing/sub-S27/ses-2/func/sub-S27_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+28: datalad get ds004892/derivatives/preprocessing/sub-S28/ses-2/func/sub-S28_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+29: datalad get ds004892/derivatives/preprocessing/sub-S29/ses-3/func/sub-S29_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+30: datalad get ds004892/derivatives/preprocessing/sub-S30/ses-2/func/sub-S30_ses-2_task-Chatter_space-subject_desc-ppres_bold.nii.gz
+
+32: datalad get ds004892/derivatives/preprocessing/sub-S32/ses-3/func/sub-S32_ses-3_task-Chatter_space-subject_desc-ppres_bold.nii.gz
