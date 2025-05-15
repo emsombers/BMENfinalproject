@@ -4,8 +4,8 @@ To download the EmoFilM dataset, please use
 
 ## fMRI Data 
 > datalad install https://github.com/OpenNeuroDatasets/ds004892.git
->> cd ds004892
->>> datalad get .... (the ... can be filled in with any of the specific fMRI data paths you want and they will be visible once you install)
+cd ds004892
+datalad get .... (the ... can be filled in with any of the specific fMRI data paths you want and they will be visible once you install)
 ## Annotation Data 
 >datalad install https://github.com/OpenNeuroDatasets/ds004872.git 
 (This one should install everything because there is no large files in it)
